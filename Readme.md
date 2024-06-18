@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋,Eu sou Patricia Mativi</h1>
-<h3 align="center">Sou apaixonado por ciência e análise de dados.</h3>
+<h3 align="center">Sou apaixonado por desenvolvimento front-End.</h3>
 
 - 🔭 Atualmente estou em transição de carreira da educação para a área de tecnologia, estou a procura de uma oportunidade de emprego, não apenas para adquirir um perfil profissional, mas também de aprendizado. **Transição de carreira**
 
-- 🌱 Estou aprendendo **Python e Ciência de Dados.**
+- 🌱 Estou aprendendo **Angular e Node.Js.**
 
-- 💬 Me pergunte sobre **SQL, Ciências de Dados e Python.**
+- 💬 Me pergunte sobre **HTML, Css e Javascript.**
 
 - 📫 Você me acha no e-mail ** patricia.mativi@gmail.com**
 
