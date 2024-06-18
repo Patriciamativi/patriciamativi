@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **Angular e Node.Js.**
 
-- 💬 Me pergunte sobre **HTML, Css e Javascript.**
+- 💬 Me pergunte sobre **Html, Css e Javascript.**
 
 - 📫 Você me acha no e-mail ** patricia.mativi@gmail.com**
 
