@@ -6,7 +6,7 @@
 </span>
 
 <div align="center"> 
- <img src="https://github.com/user-attachments/assets/cc439db0-b82f-4458-8e9c-3986dad9b699" width="50px" alt="https://www.linkedin.com/in/patricia-mativi-passos-963b10206/" /> 
+ <img src="https://github.com/user-attachments/assets/cc439db0-b82f-4458-8e9c-3986dad9b699" width="50px" link="https://www.linkedin.com/in/patricia-mativi-passos-963b10206/" /> 
 </div>
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOyiFjE2JK1gi2mVCQpzWgt0eV7c-7eiIMXp6jqUzJDCrhiElyK4VDV2KYHeH0k9HTM0&usqp=CAU
