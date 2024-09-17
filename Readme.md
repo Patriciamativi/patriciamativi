@@ -5,8 +5,6 @@
 
 </span>
 
-![linkedin](https://github.com/user-attachments/assets/cc439db0-b82f-4458-8e9c-3986dad9b699)
-
 <div align="center"> 
  <img src="https://github.com/user-attachments/assets/cc439db0-b82f-4458-8e9c-3986dad9b699" width="50px" />
 </div>
