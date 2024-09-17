@@ -1,5 +1,7 @@
-<h1 align="center">Oi 👋,Eu sou Patricia Mativi</h1>
-<h3 align="center">Sou apaixonado por desenvolvimento front-End.</h3>
+<h1 align="center">✨ Bem-vindo ao meu perfil do GitHub ✨</h1>
+<h3 align="center">Olá, eu sou a Patricia 👩‍💻 </h3>
+https://www.linkedin.com/in/patricia-mativi-passos-963b10206/
+
 
 - 🔭 Atualmente estou em transição de carreira da educação para a área de tecnologia, estou a procura de uma oportunidade de emprego, não apenas para adquirir um perfil profissional, mas também de aprendizado. **Transição de carreira**
 
