@@ -1,8 +1,7 @@
 <h1 align="center">✨ Bem-vindo ao meu perfil do GitHub ✨</h1>
 <h3 align="center">Olá, eu sou a Patricia 👩‍💻 </h3>
 
-<img src="![linkedin](https://github.com/user-attachments/assets/4b42a005-3b62-482a-a353-413140282222)
-" alt="https://www.linkedin.com/in/patricia-mativi-passos-963b10206/">
+<img src="linkedin.png" alt="https://www.linkedin.com/in/patricia-mativi-passos-963b10206/">
 
 
 
